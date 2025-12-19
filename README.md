@@ -130,25 +130,21 @@ export const AndroidMedium = () => {
 
       <div className="ml-[121px] w-[496px] h-[104px] mt-8 [font-family:'Inter-Regular',Helvetica] font-normal text-black text-5xl tracking-[0] leading-[normal]">
         {" "}
-        SPORTS DAY EVENT
+        TYPES OF EVENTS
       </div>
 
       <p className="ml-[55px] w-[530px] h-[893px] mt-[46px] [font-family:'Inter-Regular',Helvetica] font-normal text-black text-5xl tracking-[0] leading-[normal]">
-        BADMINTON
+        SOLO SINGING
         <br />
-        TENNIS
+        DANCE
         <br />
-        VOLLEY BALL
+        GROUP DANCE
         <br />
-        BASKET BALL
+        MIMICS
         <br />
-        THROW BALL
+        DUMSHARACKS
         <br />
-        FOOT BALL
-        <br />
-        CHESS
-        <br />
-        CRICKET
+        DRAMAS
       </p>
     </div>
   );
